@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @santhosh4kp
+- 👋 Hi, I’m @santhosh kumar k p
 - 👀 I’m interested in Machine learning/Deep learning/Data Science 
 - 🌱 I’m currently a Ph. D scholar
 - 💞️ I’m looking to collaborate on ...
